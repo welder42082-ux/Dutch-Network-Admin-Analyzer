@@ -1,0 +1,199 @@
+================================================================================
+DUTCH - NETWORK INFORMATION GATHERING REPORT
+================================================================================
+Generated: 2026-03-16T11:34:47.587240
+Hostname: Envy
+
+SYSTEM INFORMATION
+----------------------------------------
+Hostname: Envy
+Platform: Windows-11-10.0.26200-SP0
+System: Windows
+Release: 11
+Version: 10.0.26200
+Machine: AMD64
+Processor: Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+Python Version: 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+Cpu Count: 22
+Memory Total Gb: 15.51
+Boot Time: 2026-02-24T19:34:33.518716
+
+PUBLIC IP ADDRESS
+----------------------------------------
+Public IP: 172.59.28.14
+
+NETWORK INTERFACES
+----------------------------------------
+Interface: {52B86688-DC0A-45A4-9DD0-6CF454DEF00B}
+  IPv4: 192.168.56.1
+    Netmask: 255.255.255.0
+    Broadcast: 192.168.56.255
+  MAC: 0a:00:27:00:00:0b
+
+Interface: {72D693D9-1D93-4419-A938-A63EAEE734B2}
+  MAC: ca:15:4e:8a:26:9f
+
+Interface: {1AD71942-DB8A-4E14-9ABB-C30C4EFE5138}
+  MAC: c8:15:4e:8a:26:a0
+
+Interface: {3B79362C-2FF2-40A4-BA29-B148C934287C}
+  IPv4: 10.218.63.122
+    Netmask: 255.255.255.0
+    Broadcast: 10.218.63.255
+  MAC: c8:15:4e:8a:26:9f
+
+Interface: {1138BFEF-7EFB-4857-A5CD-5061D3581DE2}
+  IPv4: 192.168.30.1
+    Netmask: 255.255.255.0
+    Broadcast: 192.168.30.255
+  MAC: 00:50:56:c0:00:01
+
+Interface: {E98E7AE6-C7BC-400C-A4A1-E6CA464963A6}
+  IPv4: 192.168.244.1
+    Netmask: 255.255.255.0
+    Broadcast: 192.168.244.255
+  MAC: 00:50:56:c0:00:08
+
+Interface: {ECA542FE-EBD9-4AA5-B17B-44EF8E569A53}
+  MAC: c8:15:4e:8a:26:a3
+
+Interface: {D69AF753-5B38-11ED-965C-806E6F6E6963}
+  IPv4: 127.0.0.1
+    Netmask: 255.0.0.0
+    Broadcast: 127.255.255.255
+  IPv6: ::1
+    Netmask: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff/128
+  MAC: 
+
+Interface: {AA286397-CE95-412C-98FC-078E66E46A49}
+  IPv4: 172.18.224.1
+    Netmask: 255.255.240.0
+    Broadcast: 172.18.239.255
+  IPv6: fe80::778e:e3e:27d0:44d2%55
+    Netmask: ffff:ffff:ffff:ffff::/64
+  MAC: 00:15:5d:38:01:00
+
+GATEWAY INFORMATION
+----------------------------------------
+Ipv4 Gateway: 10.218.63.170
+Ipv4 Interface: {3B79362C-2FF2-40A4-BA29-B148C934287C}
+
+NETWORK ADAPTER STATISTICS
+----------------------------------------
+Adapter: Ethernet 2
+  Bytes Sent: 0
+  Bytes Recv: 0
+  Packets Sent: 0
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: Wi-Fi 2
+  Bytes Sent: 0
+  Bytes Recv: 0
+  Packets Sent: 0
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: Wi-Fi 3
+  Bytes Sent: 0
+  Bytes Recv: 0
+  Packets Sent: 0
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: Wi-Fi
+  Bytes Sent: 160475638
+  Bytes Recv: 363499948
+  Packets Sent: 88001
+  Packets Recv: 333005
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: VMware Network Adapter VMnet1
+  Bytes Sent: 274
+  Bytes Recv: 2
+  Packets Sent: 273
+  Packets Recv: 2
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: VMware Network Adapter VMnet8
+  Bytes Sent: 348
+  Bytes Recv: 2
+  Packets Sent: 348
+  Packets Recv: 2
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: Bluetooth Network Connection
+  Bytes Sent: 0
+  Bytes Recv: 0
+  Packets Sent: 0
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: Loopback Pseudo-Interface 1
+  Bytes Sent: 0
+  Bytes Recv: 0
+  Packets Sent: 0
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+Adapter: vEthernet (Default Switch)
+  Bytes Sent: 245116
+  Bytes Recv: 0
+  Packets Sent: 1658
+  Packets Recv: 0
+  Errin: 0
+  Errout: 0
+  Dropin: 0
+  Dropout: 0
+
+ACTIVE NETWORK CONNECTIONS
+----------------------------------------
+UDP 192.168.30.1:137 ->  (NONE)
+UDP 127.0.0.1:49912 ->  (NONE)
+TCP 10.218.63.122:58311 -> 150.171.41.11:443 (ESTABLISHED)
+UDP 172.18.224.1:67 ->  (NONE)
+TCP 0.0.0.0:902 ->  (LISTEN)
+TCP 10.218.63.122:58332 -> 176.119.200.8:443 (ESTABLISHED)
+TCP :::49672 ->  (LISTEN)
+UDP 127.0.0.1:1900 ->  (NONE)
+TCP 10.218.63.122:31168 -> 52.110.7.41:443 (ESTABLISHED)
+TCP 10.218.63.122:58336 -> 176.119.200.8:443 (ESTABLISHED)
+TCP 10.218.63.122:58312 -> 52.104.141.39:443 (ESTABLISHED)
+UDP 172.18.224.1:68 ->  (NONE)
+UDP 0.0.0.0:64428 ->  (NONE)
+UDP 192.168.244.1:49911 ->  (NONE)
+TCP 0.0.0.0:49672 ->  (LISTEN)
+UDP 0.0.0.0:5353 ->  (NONE)
+TCP :::49668 ->  (LISTEN)
+UDP 0.0.0.0:53 ->  (NONE)
+UDP 192.168.56.1:138 ->  (NONE)
+UDP 192.168.30.1:49910 ->  (NONE)
+... and 146 more connections
+
+================================================================================
+END OF REPORT
+================================================================================

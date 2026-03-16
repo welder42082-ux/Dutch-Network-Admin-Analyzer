@@ -1,0 +1,40 @@
+=================================================
+    Dutch Network Information Gathering Tool
+=================================================
+
+DESCRIPTION:
+This tool collects comprehensive system and network information
+from your computer and saves it in multiple formats.
+
+WINDOWS USERS:
+1. Double-click "run_dutch.bat" to start the tool
+2. If Python is not installed, the script will guide you
+3. Results will be saved in the "logs" folder
+
+LINUX/MAC USERS:
+1. Open terminal and navigate to this USB drive
+2. Run: chmod +x run_dutch.sh
+3. Run: ./run_dutch.sh
+4. Results will be saved in the "logs" folder
+
+ALTERNATIVE (Linux with GUI):
+- Double-click the "dutch.desktop" file
+
+OUTPUT FILES:
+- system_info_YYYYMMDD_HHMMSS.txt (Human readable)
+- system_info_YYYYMMDD_HHMMSS.json (Machine readable)
+- system_info_YYYYMMDD_HHMMSS.csv (Spreadsheet format)
+
+REQUIREMENTS:
+- Python 3.7 or higher
+- Administrator/root privileges (recommended)
+- Internet connection (for some features)
+
+TROUBLESHOOTING:
+If you encounter issues:
+1. Ensure Python is installed
+2. Run as administrator/root
+3. Check your antivirus settings
+4. Ensure USB has write permissions
+
+For support or questions, refer to the script documentation.

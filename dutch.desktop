@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dutch Network Scanner
+Comment=Network Information Gathering Tool
+Exec=sh -c 'cd "%k" && ./run_dutch.sh'
+Icon=network-workgroup
+Terminal=true
+Categories=Network;System;
+StartupNotify=true
+Path=%k

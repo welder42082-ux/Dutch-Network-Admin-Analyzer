@@ -1,0 +1,1545 @@
+{
+  "system_info": {
+    "hostname": "Envy",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "system": "Windows",
+    "release": "11",
+    "version": "10.0.26200",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "timestamp": "2026-03-16T11:34:47.587240",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "cpu_count": 22,
+    "memory_total_gb": 15.51,
+    "boot_time": "2026-02-24T19:34:33.518716"
+  },
+  "network_interfaces": {
+    "{52B86688-DC0A-45A4-9DD0-6CF454DEF00B}": [
+      {
+        "type": "IPv4",
+        "address": "192.168.56.1",
+        "netmask": "255.255.255.0",
+        "broadcast": "192.168.56.255"
+      },
+      {
+        "type": "MAC",
+        "address": "0a:00:27:00:00:0b"
+      }
+    ],
+    "{72D693D9-1D93-4419-A938-A63EAEE734B2}": [
+      {
+        "type": "MAC",
+        "address": "ca:15:4e:8a:26:9f"
+      }
+    ],
+    "{1AD71942-DB8A-4E14-9ABB-C30C4EFE5138}": [
+      {
+        "type": "MAC",
+        "address": "c8:15:4e:8a:26:a0"
+      }
+    ],
+    "{3B79362C-2FF2-40A4-BA29-B148C934287C}": [
+      {
+        "type": "IPv4",
+        "address": "10.218.63.122",
+        "netmask": "255.255.255.0",
+        "broadcast": "10.218.63.255"
+      },
+      {
+        "type": "MAC",
+        "address": "c8:15:4e:8a:26:9f"
+      }
+    ],
+    "{1138BFEF-7EFB-4857-A5CD-5061D3581DE2}": [
+      {
+        "type": "IPv4",
+        "address": "192.168.30.1",
+        "netmask": "255.255.255.0",
+        "broadcast": "192.168.30.255"
+      },
+      {
+        "type": "MAC",
+        "address": "00:50:56:c0:00:01"
+      }
+    ],
+    "{E98E7AE6-C7BC-400C-A4A1-E6CA464963A6}": [
+      {
+        "type": "IPv4",
+        "address": "192.168.244.1",
+        "netmask": "255.255.255.0",
+        "broadcast": "192.168.244.255"
+      },
+      {
+        "type": "MAC",
+        "address": "00:50:56:c0:00:08"
+      }
+    ],
+    "{ECA542FE-EBD9-4AA5-B17B-44EF8E569A53}": [
+      {
+        "type": "MAC",
+        "address": "c8:15:4e:8a:26:a3"
+      }
+    ],
+    "{D69AF753-5B38-11ED-965C-806E6F6E6963}": [
+      {
+        "type": "IPv4",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "broadcast": "127.255.255.255"
+      },
+      {
+        "type": "IPv6",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff/128"
+      },
+      {
+        "type": "MAC",
+        "address": ""
+      }
+    ],
+    "{AA286397-CE95-412C-98FC-078E66E46A49}": [
+      {
+        "type": "IPv4",
+        "address": "172.18.224.1",
+        "netmask": "255.255.240.0",
+        "broadcast": "172.18.239.255"
+      },
+      {
+        "type": "IPv6",
+        "address": "fe80::778e:e3e:27d0:44d2%55",
+        "netmask": "ffff:ffff:ffff:ffff::/64"
+      },
+      {
+        "type": "MAC",
+        "address": "00:15:5d:38:01:00"
+      }
+    ]
+  },
+  "public_ip": "172.59.28.14",
+  "gateway_info": {
+    "ipv4_gateway": "10.218.63.170",
+    "ipv4_interface": "{3B79362C-2FF2-40A4-BA29-B148C934287C}"
+  },
+  "adapter_details": {
+    "Ethernet 2": {
+      "bytes_sent": 0,
+      "bytes_recv": 0,
+      "packets_sent": 0,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "Wi-Fi 2": {
+      "bytes_sent": 0,
+      "bytes_recv": 0,
+      "packets_sent": 0,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "Wi-Fi 3": {
+      "bytes_sent": 0,
+      "bytes_recv": 0,
+      "packets_sent": 0,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "Wi-Fi": {
+      "bytes_sent": 160475638,
+      "bytes_recv": 363499948,
+      "packets_sent": 88001,
+      "packets_recv": 333005,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "VMware Network Adapter VMnet1": {
+      "bytes_sent": 274,
+      "bytes_recv": 2,
+      "packets_sent": 273,
+      "packets_recv": 2,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "VMware Network Adapter VMnet8": {
+      "bytes_sent": 348,
+      "bytes_recv": 2,
+      "packets_sent": 348,
+      "packets_recv": 2,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "Bluetooth Network Connection": {
+      "bytes_sent": 0,
+      "bytes_recv": 0,
+      "packets_sent": 0,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "Loopback Pseudo-Interface 1": {
+      "bytes_sent": 0,
+      "bytes_recv": 0,
+      "packets_sent": 0,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    },
+    "vEthernet (Default Switch)": {
+      "bytes_sent": 245116,
+      "bytes_recv": 0,
+      "packets_sent": 1658,
+      "packets_recv": 0,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    }
+  },
+  "network_connections": [
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.30.1:137",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "127.0.0.1:49912",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58311",
+      "remote_address": "150.171.41.11:443",
+      "status": "ESTABLISHED",
+      "pid": 29840
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:67",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:902",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 6932
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58332",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49672",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 6184
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "127.0.0.1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31168",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58336",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58312",
+      "remote_address": "52.104.141.39:443",
+      "status": "ESTABLISHED",
+      "pid": 29840
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:68",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:64428",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 9816
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.244.1:49911",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49672",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 6184
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 15928
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49668",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 3888
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:53",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.56.1:138",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.30.1:49910",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:25381",
+      "remote_address": "172.212.135.15:443",
+      "status": "ESTABLISHED",
+      "pid": 15624
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31195",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "10.218.63.122:49909",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::2179",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4444
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "10.218.63.122:138",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58313",
+      "remote_address": "8.8.4.4:443",
+      "status": "ESTABLISHED",
+      "pid": 2576
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49665",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1608
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:3702",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 9816
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:49688",
+      "remote_address": "127.0.0.1:49689",
+      "status": "ESTABLISHED",
+      "pid": 2024
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.56.1:49908",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:445",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31199",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58317",
+      "remote_address": "204.79.197.203:80",
+      "status": "ESTABLISHED",
+      "pid": 4300
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:912",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 6932
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49665",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1608
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31175",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:500",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 6720
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "172.18.224.1:139",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::445",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 2576
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31179",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58338",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:31573",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.30.1:138",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58314",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:5357",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58321",
+      "remote_address": "185.70.42.43:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31166",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.244.1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::64429",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 9816
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:49420",
+      "remote_address": "20.59.87.227:443",
+      "status": "ESTABLISHED",
+      "pid": 6992
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:27036",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31177",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:9370",
+      "remote_address": "135.234.174.40:443",
+      "status": "ESTABLISHED",
+      "pid": 2796
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10153",
+      "remote_address": "127.0.0.1:10172",
+      "status": "ESTABLISHED",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10154",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31154",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31173",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.244.1:138",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31158",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::500",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 6720
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31170",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31167",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:58272",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:22291",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4540
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::135",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 912
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "10.218.63.122:137",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:44568",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49664",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1780
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": "::1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": "::1:42050",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 28808
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.56.1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49675",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1740
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:27036",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58334",
+      "remote_address": "13.107.246.35:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:59792",
+      "remote_address": "74.118.138.167:443",
+      "status": "ESTABLISHED",
+      "pid": 6684
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:5050",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 10716
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 22624
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:4016",
+      "remote_address": "127.0.0.1:4017",
+      "status": "ESTABLISHED",
+      "pid": 6584
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:58271",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58319",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31174",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:1143",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49668",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 3888
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49669",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4676
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:4500",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 6720
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:44569",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10153",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:49690",
+      "remote_address": "127.0.0.1:49691",
+      "status": "ESTABLISHED",
+      "pid": 2052
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58320",
+      "remote_address": "185.70.42.43:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::5357",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:63451",
+      "remote_address": "20.59.87.226:443",
+      "status": "ESTABLISHED",
+      "pid": 29840
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:138",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:49913",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58327",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:45671",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31181",
+      "remote_address": "20.190.135.4:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:46039",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "10.218.63.122:27036",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49675",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1740
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58307",
+      "remote_address": "20.161.205.129:443",
+      "status": "ESTABLISHED",
+      "pid": 9980
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31163",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31184",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58330",
+      "remote_address": "20.190.135.4:443",
+      "status": "ESTABLISHED",
+      "pid": 28436
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.56.1:137",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58323",
+      "remote_address": "185.70.42.43:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58322",
+      "remote_address": "185.125.190.21:443",
+      "status": "ESTABLISHED",
+      "pid": 18816
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "10.218.63.122:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "192.168.30.1:139",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:49689",
+      "remote_address": "127.0.0.1:49688",
+      "status": "ESTABLISHED",
+      "pid": 2024
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.30.1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 22624
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:2179",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4444
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:123",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4784
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "192.168.56.1:139",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31161",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:49691",
+      "remote_address": "127.0.0.1:49690",
+      "status": "ESTABLISHED",
+      "pid": 2052
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::3702",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 9816
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:49664",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 1780
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31196",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31178",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31171",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": "::1:49906",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "192.168.244.1:137",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:135",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 912
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:31569",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58342",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58324",
+      "remote_address": "104.18.20.213:80",
+      "status": "ESTABLISHED",
+      "pid": 18816
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:31573",
+      "remote_address": "127.0.0.1:31574",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::123",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4784
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10171",
+      "remote_address": "127.0.0.1:10154",
+      "status": "ESTABLISHED",
+      "pid": 13332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58308",
+      "remote_address": "20.161.205.129:443",
+      "status": "ESTABLISHED",
+      "pid": 9980
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 2576
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:27036",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58340",
+      "remote_address": "23.33.85.234:443",
+      "status": "ESTABLISHED",
+      "pid": 22548
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31169",
+      "remote_address": "52.110.7.41:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "0.0.0.0:5040",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 10716
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:4017",
+      "remote_address": "127.0.0.1:4016",
+      "status": "ESTABLISHED",
+      "pid": 6584
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": "fe80::778e:e3e:27d0:44d2:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31157",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:1025",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10154",
+      "remote_address": "127.0.0.1:10171",
+      "status": "ESTABLISHED",
+      "pid": 15028
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::4500",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 6720
+    },
+    {
+      "family": "IPv6",
+      "type": "TCP",
+      "local_address": ":::49669",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4676
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31162",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:27060",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 15028
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31156",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "127.0.0.1:51531",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 6644
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31159",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:31574",
+      "remote_address": "127.0.0.1:31573",
+      "status": "ESTABLISHED",
+      "pid": 24496
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::5353",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 15928
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:139",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31155",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "192.168.244.1:139",
+      "remote_address": "",
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:58339",
+      "remote_address": "176.119.200.8:443",
+      "status": "ESTABLISHED",
+      "pid": 24332
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": ":::58273",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4336
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:137",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "family": "IPv6",
+      "type": "UDP",
+      "local_address": "fe80::778e:e3e:27d0:44d2:49907",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "172.18.224.1:1900",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 4544
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31176",
+      "remote_address": "52.110.7.32:443",
+      "status": "ESTABLISHED",
+      "pid": 9664
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:1205",
+      "remote_address": "23.49.56.158:443",
+      "status": "ESTABLISHED",
+      "pid": 18316
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31160",
+      "remote_address": "185.70.42.41:443",
+      "status": "ESTABLISHED",
+      "pid": 13160
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:31186",
+      "remote_address": "176.119.200.8:443",
+      "status": "FIN_WAIT1",
+      "pid": 24332
+    },
+    {
+      "family": "IPv4",
+      "type": "UDP",
+      "local_address": "0.0.0.0:5355",
+      "remote_address": "",
+      "status": "NONE",
+      "pid": 2576
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "127.0.0.1:10172",
+      "remote_address": "127.0.0.1:10153",
+      "status": "ESTABLISHED",
+      "pid": 13332
+    },
+    {
+      "family": "IPv4",
+      "type": "TCP",
+      "local_address": "10.218.63.122:25370",
+      "remote_address": "205.196.6.132:27018",
+      "status": "ESTABLISHED",
+      "pid": 15028
+    }
+  ]
+}
